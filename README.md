@@ -1,5 +1,7 @@
 # vue-quiz
 
+You can test it on: https://eager-joliot-7623a9.netlify.app/
+
 ## Project setup
 ```
 npm install
